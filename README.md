@@ -54,9 +54,9 @@ Open a Pull Request.
 
 ### 🛠️ Built With
 
-C++: Core programming language used for logic and calculations.
-SFML: Simple and Fast Multimedia Library for graphics and window management.
-Linux: Developed and tested on Linux Mint, but compatible with other platforms.
+- **C++: Core programming language used for logic and calculations.
+- **SFML: Simple and Fast Multimedia Library for graphics and window management.
+- **Linux: Developed and tested on Linux Mint, but compatible with other platforms.
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
