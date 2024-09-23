@@ -20,54 +20,54 @@ This project is a graphical simulation of planetary motion in a 2D plane, inspir
   ```bash
   sudo apt-get install libsfml-dev
 
-  Installation
+### Installation
+
 Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/your-username/planetary-motion-simulation.git
 cd planetary-motion-simulation
+
 Compile the project:
-bash
-Copy code
 g++ PlanetaryMotion.cpp -o PlanetaryMotion -lsfml-graphics -lsfml-window -lsfml-system
+
 Run the executable:
-bash
-Copy code
 ./PlanetaryMotion
-Customization
+
+### Customization
+
 Modify the Planets: Open PlanetaryMotion.cpp and adjust the planets vector to add new planets or change existing parameters like distance, speed, or color.
 Change the Background: Customize the background color or add your own textures to enhance the visual appeal.
-🖼️ Screenshots
-<!-- Replace with your own screenshots -->
 
-🤝 Contributions
+
+### 🤝 Contributions
+
 Contributions are welcome! Feel free to fork this repository and submit a pull request. If you have any ideas or suggestions, please open an issue or contact me directly.
 
-To Contribute:
+### To Contribute:
+
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Open a Pull Request.
-🛠️ Built With
+
+### 🛠️ Built With
+
 C++: Core programming language used for logic and calculations.
 SFML: Simple and Fast Multimedia Library for graphics and window management.
 Linux: Developed and tested on Linux Mint, but compatible with other platforms.
-📜 License
+
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-💬 Acknowledgements
+## 💬 Acknowledgements
 SFML community for the wonderful graphics library.
 Open-source contributors for making tools and resources available.
 Special thanks to Alan Cyril for designing and developing this project.
-✨ Future Improvements
+
+## ✨ Future Improvements
 Add more planets, dwarf planets, or even asteroids!
 Implement zoom and pan features for better navigation.
 Add interactive elements like speed controls or planet information panels.
-📬 Contact
-If you have any questions, feel free to reach out via:
-
-Email: your-email@example.com
-LinkedIn: Your LinkedIn
 
